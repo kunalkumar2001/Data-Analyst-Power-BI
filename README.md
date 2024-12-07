@@ -56,4 +56,4 @@ each designed to demonstrate my skills in Excel, Power BI, SQL, Python, and data
 
 ## 📬 Contact
 - **LinkedIn:** [Kunal Kumar](https://www.linkedin.com/in/kunal-kumar-2001/)  
-- **Email:** kunalkumar2001@example.com
+- **Email:** kunalkr696@gmail.com
